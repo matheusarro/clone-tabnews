@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // ESLint
+    "esbenp.prettier-vscode", // Prettier - Code formatter
+    "richie5um2.vscode-sort-json", // Sort JSON Objects
+    "streetsidesoftware.code-spell-checker", // Code Spell Checker
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian", // Brazilian Portuguese - Code Spell Checker
+    "christian-kohler.path-intellisense", // Path Intellisense
+    "usernamehw.errorlens", // Error Lens
+    "eamodio.gitlens", // GitLens
+    "mhutchie.git-graph", // Git Graph
+    "vitest.explorer", // Vitest
+    "ms-azuretools.vscode-containers", // Container Tools (Docker + Podman)
+    "IronGeek.vscode-env", // ENV
+    "tal7aouy.icons" //Icons
+  ],
+  "unwantedRecommendations": [
+    "prettier.prettier-vscode" // Prettier - Code formatter (Legacy Code)
+  ]
+}
